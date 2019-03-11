@@ -1431,7 +1431,6 @@ img {
 }
 .for-btns .gplay-button {
   width: auto;
-  float: left;
 }
 @media (max-width: 767px) {
   .for-btns .gplay-button {
